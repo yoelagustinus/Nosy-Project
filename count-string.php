@@ -78,8 +78,9 @@
             <?php
                 echo $status;
             ?>
-
             </div>
+            <br><br><br>
+            <a href="test.php?text=<?php echo $in_string?>" class="btn btn-warning" target="_blank">Test View Page</a>
         </div>
         <?php
 
